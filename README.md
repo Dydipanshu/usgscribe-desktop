@@ -4,7 +4,7 @@ Voice dictation for ultrasound (USG) reports that types straight into MS Word, o
 other program where your cursor is.
 
 **Download:** [USGScribe-Setup.exe](https://github.com/Dydipanshu/usgscribe-desktop/releases/latest/download/USGScribe-Setup.exe)
-· Website: https://usgscribe.vercel.app
+· Website: https://usgscribe.tunedloop.com
 
 ## How to use
 
